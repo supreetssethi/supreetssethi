@@ -45,7 +45,8 @@ You can use the website to generate badges: https://shields.io/
 
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript"  />][learning_now_anchor]
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" alt="Express logo" title="Express"  />][learning_now_anchor]
-[<img src="https://img.shields.io/badge/Node-282C34?logo=node.js&logoColor=68A063" alt="Node.js logo" title="Node"  />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=68A063" alt="Node.js logo" title="Node"  />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=68A063" alt="Node.js logo" title="Node"  />][learning_now_anchor]
 
 <!-- ## 👾 What I am interested in learning at some point
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor] -->
