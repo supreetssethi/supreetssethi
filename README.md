@@ -32,23 +32,23 @@ You can use the website to generate badges: https://shields.io/
 
 **🛠 Technologies and tools:**
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript"/>
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue" alt="React logo" title="React"  />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5"  />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux"  />
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint"  />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code"  />
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)
+![Redux](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC)
+![ESLint](https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3)
+![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)
 
 &nbsp;&nbsp;&nbsp;
 
 **📖 What I am currently learning / improving on:**
 
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript"  />
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" alt="Express logo" title="Express"  />
-<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=68A063" alt="Node.js logo" title="Node"  />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=68A063" alt="Node.js logo" title="Node"  />
+![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
+![Express](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white)
+![Node](https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=68A063)
+![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=68A063)
 
 <!-- ## 👾 What I am interested in learning at some point
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor] -->
