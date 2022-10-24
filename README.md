@@ -2,13 +2,13 @@
 
 ## Hello, I'm Supreet Sethi!
 
-![Supreet Sethi](https://supreetssethi.com/images/banner.jpg)
+![Supreet Sethi](https://media-exp1.licdn.com/dms/image/C5616AQFDjzzVqVY2HA/profile-displaybackgroundimage-shrink_350_1400/0/1663150577160?e=1672272000&v=beta&t=wpsCcU35BWcN3OK93-cGjkOx__bD9tGPtLRZ6lVeAKc)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](http://supreetssethi.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://supreetssethi.hashnode.dev/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/supreetssethi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supreetssethi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:supreet.s.sethi@gmail.com)
@@ -18,8 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - ❤️ Front-end Development!
-- 🔭 I’m currently working as Assistant Manager Of Software Engineering @ Musafir.com
-- 7+ years professional experience as a software developer.
+- 9+ years professional experience as a software developer.
 - Fast learner and eager to explore new technologies.
 - Believer in agile software development, team work and Clean Code.
 - Steadily growing into people management
